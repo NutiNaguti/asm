@@ -1,0 +1,10 @@
+*.bak
+*.log
+*.o
+*.objdump
+*.out
+*.swp
+*.tmp
+/out
+core
+tmp.*
